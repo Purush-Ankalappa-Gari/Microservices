@@ -1,0 +1,10 @@
+package com.example.welcome.feign;
+
+import feign.Response;
+import feign.codec.ErrorDecoder;
+
+public class FeignErrorDecoder implements ErrorDecoder {
+
+	
+
+}

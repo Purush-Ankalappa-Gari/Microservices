@@ -1,0 +1,5 @@
+package com.example.welcome.feign;
+
+public class FeignErrorDecoder {
+
+}

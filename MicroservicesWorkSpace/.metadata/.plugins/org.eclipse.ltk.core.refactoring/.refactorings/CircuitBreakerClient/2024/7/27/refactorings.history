@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.config&apos; to &apos;com.example.circuitbreaker&apos;&#x0D;&#x0A;- Original project: &apos;CircuitBreakerClient&apos;&#x0D;&#x0A;- Original element: &apos;CircuitBreakerClient/src/main/java/com.example.config&apos;&#x0D;&#x0A;- Renamed element: &apos;CircuitBreakerClient/src/main/java/com.example.circuitbreaker&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.config&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.config" name="com.example.circuitbreaker" qualified="false" references="true" stamp="1719817695525" textual="false" version="1.0"/>
+</session>
